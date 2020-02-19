@@ -14,9 +14,20 @@
     display: block;
 }
 
+.left-color  {
+   border-top: 2px solid #f3f4f4;
+
+} 
+
+.bottom-color {
+    border-bottom: 2px solid #f3f4f4;
+
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   color: #555555;
+  
 }
 
 h1,
@@ -87,7 +98,7 @@ a:hover {
 
 .text-brand {
   color: #000000;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 600;
 }
 
@@ -236,6 +247,7 @@ a:hover {
 
 .section-t8 {
   padding-top: 8rem;
+  padding-bottom: 2rem;
 }
 
 .section-t4 {
@@ -1319,7 +1331,7 @@ a:hover {
 }
 
 .title-c {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-weight: 600;
   margin-left: -40px;
 }
@@ -1541,7 +1553,7 @@ footer {
   padding: 30px 0;
 }
 
-footer .copyright-footer {
+.copyright-footer {
   border-top: 1px solid #ddd;
   padding-top: 20px;
 }
@@ -1623,7 +1635,7 @@ footer .credits {
 .btn.btn-a,
 .btn.btn-b {
   border-radius: 0;
-  padding: 1rem 3rem;
+  /*padding: 1rem 3rem;*/
   letter-spacing: .05rem;
 }
 
@@ -1917,7 +1929,7 @@ footer .credits {
   }
 
   .title-c {
-    font-size: 2.5rem;
+    font-size: 1.7rem;
   }
 
   .card-box-d .card-overlay-hover {

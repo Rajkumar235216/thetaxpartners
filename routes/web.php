@@ -29,12 +29,40 @@ Route::get('/company', function () {
 Route::get('/accounting', function () {
     return view('accounting');
 });
-Route::get('/contact', function () {
-    return view('contact');
-});
+
 Route::get('/import-export', function () {
     return view('import_export');
 });
 Route::get('/property-single', function () {
     return view('property-single');
 });
+
+Route::get('/services', function () {
+    return view('services');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/faq', function () {
+    return view('faq');
+});
+
+
+/*Route::get('/contact', function () {
+    return view('contact');
+});*/
+
+Route::get('/contact', [
+    'uses' => 'ContactMessageController@create'
+]
+    
+);
+
+Route::post('/contact', [
+    'uses' => 'ContactMessageController@store',
+    'as'  =>  'contact.store'
+]
+    
+);

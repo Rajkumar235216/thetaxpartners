@@ -134,6 +134,8 @@
      
     <div class="container">
     
+            <a class="navbar-brand text-brand" href="/">TheTax<span class="color-b">Partners</span></a>
+
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
@@ -144,11 +146,10 @@
 
 
 
-      <a class="navbar-brand text-brand" href="/">TheTax<span class="color-b">Partners</span></a>
-      <button type="button" class="btn btn-link nav-search navbar-toggle-box-collapse d-md-none" data-toggle="collapse"
+      <!--<button type="button" class="btn btn-link nav-search navbar-toggle-box-collapse d-md-none" data-toggle="collapse"
         data-target="#navbarTogglerDemo01" aria-expanded="false">
         <span class="fa fa-search" aria-hidden="true"></span>
-      </button>
+      </button>-->
       <div class="navbar-collapse collapse justify-content-center" id="navbarDefault">
         <ul class="navbar-nav">
           <li class="nav-item">
@@ -169,7 +170,7 @@
           <li class="nav-item">
             <a class="nav-link" href="/import-export">Import/Export</a>
           </li>
-          <li class="nav-item dropdown">
+          <!--<li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
               Pages
@@ -180,7 +181,7 @@
               <a class="dropdown-item" href="/agents-grid">Agents Grid</a>
               <a class="dropdown-item" href="/agent-single">Agent Single</a>
             </div>
-          </li>
+          </li>-->
           <li class="nav-item">
             <a class="nav-link" href="/contact">Contact</a>
           </li>

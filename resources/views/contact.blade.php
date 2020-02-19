@@ -32,18 +32,12 @@
   <section class="contact">
     <div class="container">
       <div class="row">
-        <div class="col-sm-12">
-          <div class="contact-map box">
-            <div id="map" class="contact-map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1422937950147!2d-73.98731968482413!3d40.75889497932681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses-419!2sve!4v1510329142834"
-                width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
-          </div>
-        </div>
+
         <div class="col-sm-12 section-t8">
           <div class="row">
             <div class="col-md-7">
-              <form class="form-a contactForm" action="" method="post" role="form">
+              <form class="form-a contactForm" action="{{route('contact.store') }}" method="post" role="form">
+                {{ csrf_field() }}
                 <div id="sendmessage">Your message has been sent. Thank you!</div>
                 <div id="errormessage"></div>
                 <div class="row">
@@ -61,7 +55,7 @@
                   </div>
                   <div class="col-md-12 mb-3">
                     <div class="form-group">
-                      <input type="url" name="subject" class="form-control form-control-lg form-control-a" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject">
+                      <input type="text" name="subject" class="form-control form-control-lg form-control-a" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject">
                       <div class="validation"></div>
                     </div>
                   </div>
@@ -88,10 +82,10 @@
                   </div>
                   <div class="icon-box-content">
                     <p class="mb-1">Email.
-                      <span class="color-a">contact@example.com</span>
+                      <span class="color-a">thetaxpartners@gmail.com</span>
                     </p>
                     <p class="mb-1">Phone.
-                      <span class="color-a">+54 356 945234</span>
+                      <span class="color-a">+919716605720</span>
                     </p>
                   </div>
                 </div>
@@ -106,9 +100,12 @@
                   </div>
                   <div class="icon-box-content">
                     <p class="mb-1">
-                      Manhattan, Nueva York 10036,
-                      <br> EE. UU.
+                      R-16, Sainik nagar, Nawada, Uttam Nagar
+                      <br>  Delhi, 110059.
                     </p>
+                    <a class="btn btn-a"  href="https://g.page/the-tax-partners?share" role="button" >Get Directions</a>
+            
+        
                   </div>
                 </div>
               </div>
