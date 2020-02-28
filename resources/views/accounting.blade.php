@@ -127,8 +127,8 @@
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary" href="/accounting/book-keeping" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -151,8 +151,8 @@
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/accounting/financial-statements" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
          Apply Now
@@ -168,12 +168,13 @@
       </div>
       <!--  embedded collapsible buttons stop -->
       </div>
+
       <div class="tab-pane fade" id="list-Inventories" role="tabpanel" aria-labelledby="list-Inventories-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed dolores quidem adipisci doloremque culpa illo eligendi perferendis, iure nam unde harum at quisquam exercitationem nemo quaerat dicta, eaque veritatis odio.
        <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/accounting/stock-inventories" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -187,14 +188,15 @@
             <!--/ Equiry form end  /--> 
          </div>
       </div>
+
       <!--  embedded collapsible buttons stop -->
       </div>
       <div class="tab-pane fade" id="list-Projected" role="tabpanel" aria-labelledby="list-Projected-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/accounting/projected-financial-statements" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -208,14 +210,16 @@
             <!--/ Equiry form end  /--> 
          </div>
     </div>
+
     <!--  embedded collapsible buttons stop -->
   </div>
+
         <div class="tab-pane fade" id="list-Provisional" role="tabpanel" aria-labelledby="list-Provisional-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/accounting/provisional-financial-statements" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -236,8 +240,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/accounting/deffered-taxes" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -258,7 +262,7 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="btn btn-primary"  href="/accounting/others" role="button" >
             Link with href
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">

@@ -15,30 +15,44 @@
 
         </div>
       </div>
-      <form >
+     @if (Session:: has('flash_message'))
+    <div class="alert alert-success">{{Session::get('flash_message')}}</div>
+    @endif
+  <form method="post" class="form-a contactForm"  action="{{route('enquiry.store') }}" id="form2" name="form2" role="form">
+                    {{ csrf_field() }}
+
   <div class="form-group row">
     <label for="exampleFormControlInput1" class="col-sm-2 col-form-label" >Name</label>
+    <div class="col-sm-7" >
+    <input type="text" name ="nametwo" class="form-control " id="nametwo" placeholder="Mukesh Ambani" oninput="checkName2();" >
+    <div id="name2err"></div>
     
-    <input type="name" class="form-control col-sm-7" id="exampleFormControlInput1" placeholder="Mukesh Ambani" required>
+    </div>
   </div>
 
     <div class="form-group row">
         <label for="exampleFormControlInput1" class="col-sm-2 col-form-label" >Email</label>
-
-        <input type="email" class="form-control col-sm-7" placeholder="xyz@example.com" required>    
+          <div class="col-sm-7" >
+        <input type="email" name = "email2" id="email2" class="form-control " placeholder="xyz@example.com" oninput="checkEmail2();" >
+        <div id="email2err" ></div>    
+  </div>
   </div>
 
     <div class="form-group row">
         <label for="exampleFormControlInput1" class="col-sm-2 col-form-label" >Contact Number</label>
-
-        <input type="text" class="form-control col-sm-7" placeholder="9876543210" required>
+        <div class="col-sm-7" >
+        <input type="text" name = "mobile" id ="mobile" class="form-control " placeholder="9876543210" oninput="checkMobile();" >
+        <div  id="mobileerr"></div>
+    </div>
     </div>
   
 
 
   <div class="form-group row">
     <label for="exampleFormControlSelect1" class="col-sm-2">Service Group</label>
-    <select class="form-control col-sm-7" id="" required>
+    <div class="col-sm-7" >
+    <select class="form-control " name = "servicegrp" id="service_grp" oninput="checkServiceGrp();" >
+      <option  disabled selected value >Please Select one service</option>
       <option id="income" >Income Tax</option>
       <option id="gst">GST</option>
       <option id ="tds">TDS</option>
@@ -47,10 +61,14 @@
       <option id="import">Import/Export</option>
       <option id="others">Others</option>
     </select>
+    <div id="servicegrperr"></div>
   </div>
+  </div>
+
   <div class="form-group row">
     <label for="exampleFormControlSelect2" class="col-sm-2">Service Type</label>
-    <select multiple class="form-control col-sm-7" id="service_type" required>
+     <div class="col-sm-7" >
+    <select multiple class="form-control " name = "servicetype" id="service_type" oninput="checkServiceType();" >
 			<option value="return">Tax Return of various entities</option>
 			<option value="ScruitinyAssessment">Scruitiny Assessment</option>
 			<option value="response142_1">Response of 142(1)</option>
@@ -65,13 +83,21 @@
 			<option value="trust_12A">Trust under 12A/12AA (809)</option>
 			<option value="other">Other</option>
     </select>
+    <div id="servicetypeerr"></div>
   </div>
+   </div>
+
   <div class="form-group row">
     <label for="exampleFormControlTextarea1" class="col-sm-2">Query</label>
-    <textarea class="form-control col-sm-7" id="exampleFormControlTextarea1" rows="3"></textarea>
+    <div class="col-sm-7" >
+    <textarea class="form-control " name="textarea" id="textarea" oninput="checkText2();" rows="3"></textarea>
+    <div id="texterr"></div>
   </div>
-    <div class="form-group  text-center">
-    <input class="btn btn-a "  type="submit" value="Apply Now">
+  </div>
+    <div class="form-group text-center">
+      
+        <button type="submit"  class="btn btn-a">Apply Now</button>
+      
   </div>
 
 </form>

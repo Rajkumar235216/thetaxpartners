@@ -288,3 +288,9 @@ $(document).ready(function () {
 
     });
 });
+
+
+
+
+
+//  contact form validation//

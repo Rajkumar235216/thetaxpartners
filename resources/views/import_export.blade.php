@@ -126,8 +126,8 @@
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/import-export/iec" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -150,8 +150,8 @@
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/import-export/bill-of-lading" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
          Apply Now
@@ -167,12 +167,13 @@
       </div>
       <!--  embedded collapsible buttons stop -->
       </div>
+
       <div class="tab-pane fade" id="list-FIRC" role="tabpanel" aria-labelledby="list-FIRC-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed dolores quidem adipisci doloremque culpa illo eligendi perferendis, iure nam unde harum at quisquam exercitationem nemo quaerat dicta, eaque veritatis odio.
        <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/import-export/firc-birc" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -188,12 +189,13 @@
       </div>
       <!--  embedded collapsible buttons stop -->
       </div>
+
       <div class="tab-pane fade" id="list-Export" role="tabpanel" aria-labelledby="list-Export-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/import-export/export-realisation" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -209,12 +211,13 @@
     </div>
     <!--  embedded collapsible buttons stop -->
   </div>
+
         <div class="tab-pane fade" id="list-Notice" role="tabpanel" aria-labelledby="list-Notice-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/import-export/notices" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -235,8 +238,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/import-export/consultancy" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -257,8 +260,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/import-export/disinvestment" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -279,8 +282,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/import-export/others" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now

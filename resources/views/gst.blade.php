@@ -128,8 +128,8 @@
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/gst/registration" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -152,8 +152,8 @@
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/gst/cancellation" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
          Apply Now
@@ -169,12 +169,13 @@
       </div>
       <!--  embedded collapsible buttons stop -->
       </div>
+
       <div class="tab-pane fade" id="list-returns" role="tabpanel" aria-labelledby="list-returns-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed dolores quidem adipisci doloremque culpa illo eligendi perferendis, iure nam unde harum at quisquam exercitationem nemo quaerat dicta, eaque veritatis odio.
        <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/gst/returns" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -190,12 +191,13 @@
       </div>
       <!--  embedded collapsible buttons stop -->
       </div>
+
       <div class="tab-pane fade" id="list-refunds" role="tabpanel" aria-labelledby="list-refunds-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/gst/refunds" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -211,12 +213,13 @@
     </div>
     <!--  embedded collapsible buttons stop -->
   </div>
+
         <div class="tab-pane fade" id="list-EwayBill" role="tabpanel" aria-labelledby="list-EwayBill-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary" href="/gst/e-way-bill" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -237,8 +240,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary" href="/gst/legal-consultancy" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -259,8 +262,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary" href="/gst/revocation-cancellation" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -281,8 +284,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/gst/notices" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -303,8 +306,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/gst/cases" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -325,8 +328,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/gst/others" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now

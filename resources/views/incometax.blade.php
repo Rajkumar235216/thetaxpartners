@@ -132,8 +132,8 @@
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/tax-return" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -156,8 +156,8 @@
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/scruitiny-assessment" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
          Apply Now
@@ -173,12 +173,13 @@
       </div>
       <!--  embedded collapsible buttons stop -->
       </div>
+
       <div class="tab-pane fade" id="list-142" role="tabpanel" aria-labelledby="list-142-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed dolores quidem adipisci doloremque culpa illo eligendi perferendis, iure nam unde harum at quisquam exercitationem nemo quaerat dicta, eaque veritatis odio.
        <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary" href="/income-tax/response-142(1)" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -194,12 +195,13 @@
       </div>
       <!--  embedded collapsible buttons stop -->
       </div>
+
       <div class="tab-pane fade" id="list-143" role="tabpanel" aria-labelledby="list-143-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/response-143(1)" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -215,12 +217,13 @@
     </div>
     <!--  embedded collapsible buttons stop -->
   </div>
+
         <div class="tab-pane fade" id="list-Refunds" role="tabpanel" aria-labelledby="list-Refunds-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/tax-refunds" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -241,8 +244,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary" href="/income-tax/legal-consultancy" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -263,8 +266,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/defective-return" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -285,8 +288,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/rectification-154" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -307,8 +310,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/various-forms" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -329,8 +332,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary" href="/income-tax/cit-appeals" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -352,8 +355,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/e-assessment" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -374,8 +377,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/trust" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now
@@ -396,8 +399,8 @@
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
-            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Link with href
+            <a class="btn btn-primary"  href="/income-tax/others" role="button" >
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now

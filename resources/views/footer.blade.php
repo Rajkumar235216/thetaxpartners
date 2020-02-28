@@ -20,22 +20,22 @@
               <div class="w-body-a">
                 <ul class="list-unstyled">
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Tax Return of various entities</a>
+                    <i class="fa fa-angle-right"></i> <a href="/income-tax/tax-return">Tax Return of various entities</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Refunds</a>
+                    <i class="fa fa-angle-right"></i> <a href="/income-tax/tax-refunds">Refunds</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Response of 142(1)</a>
+                    <i class="fa fa-angle-right"></i> <a href="/income-tax/response-142(1)">Response of 142(1)</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Response of 143(1)</a>
+                    <i class="fa fa-angle-right"></i> <a href="/income-tax/response-143(1)">Response of 143(1)</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Scruitiny Assessment</a>
+                    <i class="fa fa-angle-right"></i> <a href="/income-tax/scruitiny-assessment">Scruitiny Assessment</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Legal Consultancy</a>
+                    <i class="fa fa-angle-right"></i> <a href="/income-tax/legal-consultancy">Legal Consultancy</a>
                   </li>
                 </ul>
               </div>
@@ -50,22 +50,22 @@
               <div class="w-body-a">
                 <ul class="list-unstyled">
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Company Incorporation</a>
+                    <i class="fa fa-angle-right"></i> <a href="/company/incorporation">Company Incorporation</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Change in particulars</a>
+                    <i class="fa fa-angle-right"></i> <a href="/company/change-particulars">Change in particulars</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Closure/Liquidtion</a>
+                    <i class="fa fa-angle-right"></i> <a href="/company/closures">Closure/Liquidtion</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Submission of ROC forms</a>
+                    <i class="fa fa-angle-right"></i> <a href="/company/roc">Submission of ROC forms</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Annual e-filing</a>
+                    <i class="fa fa-angle-right"></i> <a href="/company/annual-filing">Annual e-filing</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Sale-Purchase of Companies</a>
+                    <i class="fa fa-angle-right"></i> <a href="/company/sale-purcahse-transfer">Sale-Purchase of Companies</a>
                   </li>
                 </ul>
               </div>
@@ -80,22 +80,22 @@
             <div class="w-body-a">
               <ul class="list-unstyled">
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Registrations</a>
+                  <i class="fa fa-angle-right"></i> <a href="/gst/registration">Registrations</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Surrender/Cancellation of GST</a>
+                  <i class="fa fa-angle-right"></i> <a href="/gst/cancellation">Surrender/Cancellation of GST</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">GST Returns</a>
+                  <i class="fa fa-angle-right"></i> <a href="/gst/returns">GST Returns</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">GST Refunds</a>
+                  <i class="fa fa-angle-right"></i> <a href="/gst/refunds">GST Refunds</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">E-way Bill</a>
+                  <i class="fa fa-angle-right"></i> <a href="/gst/e-way-bill">E-way Bill</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Depatmental Cases/Matters</a>
+                  <i class="fa fa-angle-right"></i> <a href="/gst/cases">Depatmental Cases/Matters</a>
                 </li>
               </ul>
             </div>
@@ -108,22 +108,22 @@
             <div class="w-body-a">
               <ul class="list-unstyled">
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Book Keeping - Tally, Busywin</a>
+                  <i class="fa fa-angle-right"></i> <a href="/accounting/book-keeping">Book Keeping - Tally, Busywin</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Financial Statements</a>
+                  <i class="fa fa-angle-right"></i> <a href="/accounting/financial-statements">Financial Statements</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Day to Day Stock/Inventories</a>
+                  <i class="fa fa-angle-right"></i> <a href="/accounting/stock-inventories">Day to Day Stock/Inventories</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Projected Financial Statement</a>
+                  <i class="fa fa-angle-right"></i> <a href="/accounting/projected-financial-statements">Projected Financial Statement</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Provision Financial Statement</a>
+                  <i class="fa fa-angle-right"></i> <a href="/accounting/provisional-financial-statements">Provision Financial Statement</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Deferred Tax Assets/ Liability</a>
+                  <i class="fa fa-angle-right"></i> <a href="/accounting/deffered-taxes">Deferred Tax Assets/ Liability</a>
                 </li>
               </ul>
             </div>
@@ -138,22 +138,22 @@
             <div class="w-body-a">
               <ul class="list-unstyled">
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">TDS Returns</a>
+                  <i class="fa fa-angle-right"></i> <a href="/tds/returns">TDS Returns</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">TDS Refunds</a>
+                  <i class="fa fa-angle-right"></i> <a href="/tds/refunds">TDS Refunds</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Certificates - Form 16/16A/16B</a>
+                  <i class="fa fa-angle-right"></i> <a href="/tds/certificates">Certificates - Form 16/16A/16B</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">TDS Corrections</a>
+                  <i class="fa fa-angle-right"></i> <a href="/tds/corrections">TDS Corrections</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Justification Report</a>
+                  <i class="fa fa-angle-right"></i> <a href="/tds/justification">Justification Report</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Waiver Certificate Form 13</a>
+                  <i class="fa fa-angle-right"></i> <a href="/tds/waiver-certificate">Waiver Certificate Form 13</a>
                 </li>
               </ul>
             </div>
@@ -167,22 +167,22 @@
               <ul class="list-unstyled">
                
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Shipping/ Bill of Lading</a>
+                  <i class="fa fa-angle-right"></i> <a href="/import-export/bill-of-lading">Shipping/ Bill of Lading</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">FIRC/ BIRC</a>
+                  <i class="fa fa-angle-right"></i> <a href="/import-export/firc-birc">FIRC/ BIRC</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Export Realisation</a>
+                  <i class="fa fa-angle-right"></i> <a href="/import-export/export-realisation">Export Realisation</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Any Notice - RBI/ DGFT</a>
+                  <i class="fa fa-angle-right"></i> <a href="/import-export/notices">Any Notice - RBI/ DGFT</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Disinvestment in any country</a>
+                  <i class="fa fa-angle-right"></i> <a href="/import-export/disinvestment">Disinvestment in any country</a>
                 </li>
                  <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Issuance, Modification, Surrender (IEC)</a>
+                  <i class="fa fa-angle-right"></i> <a href="/import-export/iec">Issuance, Modification, Surrender (IEC)</a>
                 </li>
               </ul>
             </div>
@@ -301,20 +301,26 @@
 
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
   <div id="preloader"></div>
+  <?  
+    if ($form.equals($form_value)) {  ?>
+          <!-- Contact Form JavaScript File -->
+      <script defer src="js/formvalidation.js"></script>
 
-  <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/jquery/jquery-migrate.min.js"></script>
-  <script src="lib/popper/popper.min.js"></script>
-  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib/scrollreveal/scrollreveal.min.js"></script>
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
+    <?  
+    }
+    else{
+      ?>
+      <!-- Enquiry Form JavaScript File -->
+      <script defer src="js/formvalidation2.js"></script>
+     <? 
+    
+    }?>
+  
 
-  <!-- Template Main Javascript File -->
-  <script src="js/main.js"></script>
+
+
+
+
 
 </body>
 </html>

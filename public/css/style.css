@@ -967,7 +967,7 @@ a:hover {
 /*------/ Intro Single /------*/
 
 .intro-single {
-  padding: 12rem 0 3rem;
+  padding: 8rem 0 3rem;
 }
 
 .intro-single .title-single-box {
@@ -1576,15 +1576,15 @@ footer .credits {
   margin-bottom: 15px;
 }
 
-.form-a #errormessage {
+/*.form-a #errormessage {
   color: red;
-  display: none;
+  
   border: 1px solid red;
   text-align: center;
   padding: 15px;
   font-weight: 600;
   margin-bottom: 15px;
-}
+}*/
 
 .form-a #sendmessage.show,
 .form-a #errormessage.show,
@@ -1598,6 +1598,11 @@ footer .credits {
   margin: 4px 0 20px 0;
   font-weight: 400;
   font-size: 13px;
+}
+
+#nameerr, #emailerr, #subjecterr, #txtareaerr, #name2err, #email2err, #mobileerr, #servicegrperr, #servicetypeerr, #texterr{
+    color: red;
+
 }
 
 .form-a label {
