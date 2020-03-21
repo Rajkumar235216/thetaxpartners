@@ -2,84 +2,54 @@
 @include('header');
 
 
-  <!--/ Carousel Star /-->
-  <div class="intro intro-carousel">
-    <div id="carousel" class="owl-carousel owl-theme">
-      <div class="carousel-item-a intro-item bg-image" style="background-image: url(img/slide-1.jpg)">
-        <div class="overlay overlay-a"></div>
-        <div class="intro-content display-table">
-          <div class="table-cell">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-8">
-                  <div class="intro-body">
-                    <p class="intro-title-top">Doral, Florida
-                      <br> 78345</p>
-                    <h1 class="intro-title mb-4">
-                      <span class="color-b">204 </span> Mount
-                      <br> Olive Road Two</h1>
-                    <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">rent | $ 12.000</span></a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item-a intro-item bg-image" style="background-image: url(img/slide-2.jpg)">
-        <div class="overlay overlay-a"></div>
-        <div class="intro-content display-table">
-          <div class="table-cell">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-8">
-                  <div class="intro-body">
-                    <p class="intro-title-top">Doral, Florida
-                      <br> 78345</p>
-                    <h1 class="intro-title mb-4">
-                      <span class="color-b">204 </span> Rino
-                      <br> Venda Road Five</h1>
-                    <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">rent | $ 12.000</span></a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item-a intro-item bg-image" style="background-image: url(img/slide-3.jpg)">
-        <div class="overlay overlay-a"></div>
-        <div class="intro-content display-table">
-          <div class="table-cell">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-8">
-                  <div class="intro-body">
-                    <p class="intro-title-top">Doral, Florida
-                      <br> 78345</p>
-                    <h1 class="intro-title mb-4">
-                      <span class="color-b">204 </span> Alira
-                      <br> Roan Road One</h1>
-                    <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">rent | $ 12.000</span></a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+  <!--/ Carousel Start /-->
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100 " src="img/income-tax2-slide.png" alt="Income tax Services">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/gst-slide.jpeg" alt="Goods and Services (gst) Services">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/accounting-services-slide.jpeg" alt="Accounting Services">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/company-slide.jpg" alt="Accounting Services">
+    </div>
+   <div class="carousel-item">
+      <img class="d-block w-100" src="img/TDS-slide.png" alt="TDS Services">
+    </div>
+        <div class="carousel-item">
+      <img class="d-block w-100" src="img/import-export-slide2.jpg" alt="Import-Export Services">
     </div>
   </div>
-  <!--/ Carousel end /-->
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+   <!-- <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <!--<span class="carousel-control-next-icon" aria-hidden="true"></span>-->
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
+
+  <!--/ Carousel end /-->
+  
+  
   <!--/ Services Start /-->
-  <section class="section-services section-t8 bottom-color">
+  <section class="section-services section-t8 left-color bottom-color">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -439,7 +409,12 @@
           <div class="title-wrap d-flex justify-content-between">
             <div class="title-box">
               <h2 class="title-a">About Us</h2>
-                <span class="color-text-a">Aut voluptas consequatur unde sed omnis ex placeat quis eos. Aut natus officia corrupti qui autem fugit consectetur quo. Et ipsum eveniet laboriosam voluptas beatae possimus qui ducimus. Et voluptatem deleniti. Voluptatum voluptatibus amet. Et esse sed omnis inventore hic culpa.</span>
+                <span class="color-text-a text-justify">Established in the year 2012, The Tax Partners in Mohan Garden, Delhi is a top player in the
+                        category CA in the Delhi. This well-known establishment acts as a one-stop destination servicing
+                        customers both local and from other parts of Delhi. Over the course of its journey, this
+                        business has established a firm foothold in it’s industry. The belief that customer satisfaction
+                        is as important as their products and services, have helped this establishment garner a vast
+                        base of customers, which continues to grow by the day.</span>
 
             </div>
           

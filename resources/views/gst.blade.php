@@ -2,83 +2,15 @@
   <!--/ Nav End /-->
 
     <!--/ Carousel Star /-->
-  <div class="intro intro-carousel">
-    <div id="carousel" class="owl-carousel owl-theme">
-      <div class="carousel-item-a intro-item bg-image" style="background-image: url(img/slide-1.jpg)">
-        <div class="overlay overlay-a"></div>
-        <div class="intro-content display-table">
-          <div class="table-cell">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-8">
-                  <div class="intro-body">
-                    <p class="intro-title-top">Doral, Florida
-                      <br> 78345</p>
-                    <h1 class="intro-title mb-4">
-                      <span class="color-b">204 </span> Mount
-                      <br> Olive Road Two</h1>
-                    <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">rent | $ 12.000</span></a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item-a intro-item bg-image" style="background-image: url(img/slide-2.jpg)">
-        <div class="overlay overlay-a"></div>
-        <div class="intro-content display-table">
-          <div class="table-cell">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-8">
-                  <div class="intro-body">
-                    <p class="intro-title-top">Doral, Florida
-                      <br> 78345</p>
-                    <h1 class="intro-title mb-4">
-                      <span class="color-b">204 </span> Rino
-                      <br> Venda Road Five</h1>
-                    <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">rent | $ 12.000</span></a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item-a intro-item bg-image" style="background-image: url(img/slide-3.jpg)">
-        <div class="overlay overlay-a"></div>
-        <div class="intro-content display-table">
-          <div class="table-cell">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-8">
-                  <div class="intro-body">
-                    <p class="intro-title-top">Doral, Florida
-                      <br> 78345</p>
-                    <h1 class="intro-title mb-4">
-                      <span class="color-b">204 </span> Alira
-                      <br> Roan Road One</h1>
-                    <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">rent | $ 12.000</span></a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+     <div class="carousel-item active">
+      <img class="d-block w-100" src="img/gst-slide.jpeg" alt="Goods and Services (gst) Services">
     </div>
-  </div>
   <!--/ Carousel end /-->
 
+
+
   <!--/ Intro Single star /-->
-  <section class="intro-single">
+  <section class="intro-single left-color">
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-lg-8">
@@ -106,8 +38,9 @@
 <!--/ gst services list start /-->
 <div class="container section-t8 left-color">
 <div class="row">
-  <div class="col-md-4 col-sm-12">
+  <div class="col-md-4 col-sm-12" id ="services">
     <div class="list-group" id="list-tab" role="tablist">
+      <h6 class="text-center" id ="service_description">Select one Service</h6>
       <a class="list-group-item list-group-item-action active" id="list-NewRegistration-list" data-toggle="list" href="#list-NewRegistration" role="tab" aria-controls="NewRegistration">New/Amendment of Registration</a>
       <a class="list-group-item list-group-item-action" id="list-GSTCancellation-list" data-toggle="list" href="#list-GSTCancellation" role="tab" aria-controls="GSTCancellation">Surrender/Cancellation of GST</a>
       <a class="list-group-item list-group-item-action" id="list-returns-list" data-toggle="list" href="#list-returns" role="tab" aria-controls="list-returns">GST Returns</a>
@@ -121,8 +54,9 @@
 
     </div>
   </div>
-  <div class="col-md-8  col-sm-12">
+  <div class="col-md-8  col-sm-12" id ="services">
     <div class="tab-content" id="nav-tabContent">
+      <h6 class="text-center" id ="service_description">Description</h6>
       <div class="tab-pane fade show active" id="list-NewRegistration" role="tabpanel" aria-labelledby="list-NewRegistration-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, cupiditate. Iure, numquam. Laboriosam magni corporis provident temporibus totam animi dicta. Aut dolore deserunt at adipisci, distinctio totam placeat quis minima?.
        
       <!--  embedded collapsible buttons start-->

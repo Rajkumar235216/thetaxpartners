@@ -246,7 +246,7 @@ a:hover {
 /*------/ Space Padding /------*/
 
 .section-t8 {
-  padding-top: 8rem;
+  padding-top: 2rem;
   padding-bottom: 2rem;
 }
 
@@ -2044,4 +2044,16 @@ footer .credits {
   .box-collapse .title-box-d .title-d {
     font-size: 1.3rem;
   }
+}
+
+
+#service_description{
+  border-bottom: 1px solid rgb(88, 87, 87);
+  padding: 5px;
+}
+
+#services {
+    border: 1px solid rgb(187, 184, 184);
+    padding: 2px;
+
 }
