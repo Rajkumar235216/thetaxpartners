@@ -1,7 +1,7 @@
 @include('header');
   <!--/ Nav End /-->
 
-    <!--/ Carousel Star /-->
+    <!--/ Carousel Star /
   <div class="intro intro-carousel">
     <div id="carousel" class="owl-carousel owl-theme">
       <div class="carousel-item-a intro-item bg-image" style="background-image: url(img/slide-1.jpg)">
@@ -75,7 +75,7 @@
       </div>
     </div>
   </div>
-  <!--/ Carousel end /-->
+  / Carousel end /-->
 
   <!--/ Intro Single star /-->
   <section class="intro-single ">

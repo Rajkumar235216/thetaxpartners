@@ -46,7 +46,7 @@
   <!--/  content start /-->
     <div class="container section-t8 left-color">
       <h2 id="tds-refund">What is TDS Refund?</h2><p>
-<a href="/tax/all-about-tds.html" target="_blank">TDS</a> refund arises when the tax amount deducted is higher than the actual tax liability.Many a times it is seen that investment projections declared during the start of a financial year do not match with the actual investments made at the end of that year.</p><p>If there is a mismatch between the total tax deducted at the end of a financial year and the <a title="Income tax" href="/income-tax.html" target="_blank">income tax</a> you are supposed to pay for that particular year, a TDS refund arises.</p>
+TDS refund arises when the tax amount deducted is higher than the actual tax liability.Many a times it is seen that investment projections declared during the start of a financial year do not match with the actual investments made at the end of that year.</p><p>If there is a mismatch between the total tax deducted at the end of a financial year and the income tax you are supposed to pay for that particular year, a TDS refund arises.</p>
 <h2 id="claim-tds-refund">How to claim TDS Refund?</h2>
 <ul>
    <li><strong>In case your employer deducts more tax than applicable to you as per your IT return filing</strong></li>

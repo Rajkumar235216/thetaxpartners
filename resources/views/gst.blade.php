@@ -1,11 +1,11 @@
 @include('header');
   <!--/ Nav End /-->
 
-    <!--/ Carousel Star /-->
+    <!--/ Carousel Star 
      <div class="carousel-item active">
       <img class="d-block w-100" src="img/gst-slide.jpeg" alt="Goods and Services (gst) Services">
     </div>
-  <!--/ Carousel end /-->
+  / Carousel end /-->
 
 
 
@@ -57,7 +57,9 @@
   <div class="col-md-8  col-sm-12" id ="services">
     <div class="tab-content" id="nav-tabContent">
       <h6 class="text-center" id ="service_description">Description</h6>
-      <div class="tab-pane fade show active" id="list-NewRegistration" role="tabpanel" aria-labelledby="list-NewRegistration-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, cupiditate. Iure, numquam. Laboriosam magni corporis provident temporibus totam animi dicta. Aut dolore deserunt at adipisci, distinctio totam placeat quis minima?.
+      <div class="tab-pane fade show active" id="list-NewRegistration" role="tabpanel" aria-labelledby="list-NewRegistration-list">Every supplier who is making a taxable supply of goods or services or both shall register in every State/Union
+        Territory from where he makes taxable supply if his aggregate turnover exceeds 20 lac (10 lac for north eastern
+        states) in a financial year.
        
       <!--  embedded collapsible buttons start-->
         <br><br>
@@ -82,7 +84,8 @@
       
 
 
-      <div class="tab-pane fade" id="list-GSTCancellation" role="tabpanel" aria-labelledby="list-GSTCancellation-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima suscipit sunt ex, non laboriosam ipsa eligendi porro aliquid dolorum reiciendis explicabo. Blanditiis reprehenderit amet, sit quasi asperiores iusto a temporibus!
+      <div class="tab-pane fade" id="list-GSTCancellation" role="tabpanel" aria-labelledby="list-GSTCancellation-list">Cancellation of GST registration simply means that the taxpayer will not be a
+        GST registered person any more. He will not have to pay or collect GST.
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -104,7 +107,9 @@
       <!--  embedded collapsible buttons stop -->
       </div>
 
-      <div class="tab-pane fade" id="list-returns" role="tabpanel" aria-labelledby="list-returns-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed dolores quidem adipisci doloremque culpa illo eligendi perferendis, iure nam unde harum at quisquam exercitationem nemo quaerat dicta, eaque veritatis odio.
+      <div class="tab-pane fade" id="list-returns" role="tabpanel" aria-labelledby="list-returns-list">Any person who applies for GST registration will also have to make a GST return filing. The GST return is
+            basically a document which is needed as per the Indian tax authorities of law, to be filed. It will be used
+            by the authorities of tax for the purpose of calculating the tax liability.
        <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -126,7 +131,7 @@
       <!--  embedded collapsible buttons stop -->
       </div>
 
-      <div class="tab-pane fade" id="list-refunds" role="tabpanel" aria-labelledby="list-refunds-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+      <div class="tab-pane fade" id="list-refunds" role="tabpanel" aria-labelledby="list-refunds-list">One should be conversant about who can claim refund in GST.A person claiming refund of tax or interest or any other amount paid must file an application for refund in Form GST RFD-1 before the expiry of 2 years from the ‘relevant date’.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -148,7 +153,9 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-EwayBill" role="tabpanel" aria-labelledby="list-EwayBill-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-EwayBill" role="tabpanel" aria-labelledby="list-EwayBill-list"> E-Way Bill is an Electronic Way bill for movement of goods to be generated on the eWay Bill Portal.&nbsp;A GST
+        registered person cannot transport goods in a vehicle whose value exceeds Rs. 50,000 (Single
+        Invoice/bill/delivery challan) without an e-way bill that is generated on ewaybillgst.gov.in.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -170,8 +177,8 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Consultancy" role="tabpanel" aria-labelledby="list-Consultancy-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
-    <!--  embedded collapsible buttons start-->
+        <div class="tab-pane fade" id="list-Consultancy" role="tabpanel" aria-labelledby="list-Consultancy-list">No data Available.
+          <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
             <a class="btn btn-primary" href="/gst/legal-consultancy" role="button" >
@@ -192,7 +199,9 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Revocation" role="tabpanel" aria-labelledby="list-Revocation-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Revocation" role="tabpanel" aria-labelledby="list-Revocation-list">Revocation means the official cancellation of a decision or promise.
+            Revocation of cancellation of registration means that the decision to
+                cancel the registration has been reversed and the registration is still valid.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -214,7 +223,17 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Notices" role="tabpanel" aria-labelledby="list-Notices-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Notices" role="tabpanel" aria-labelledby="list-Notices-list"><p>The government or the GST officials often send notice to registered taxpayers pertaining to any non-compliance or oversight in their GST returns. Some of the most common reasons of such notices include,</p>
+<ul>
+<li>Mismatching details in inward ( as per GSTR 2A)and outward (as declared in GSTR 1) summary i.e., ITC and Tax liabilities details respectively.</li>
+<li>Delayed Return filing</li>
+<li>Mismatch between EWB portal and for GSTR 1</li>
+<li>Profiteering</li>
+<li>Faulty claim of ITC</li>
+<li>Failure to obtain GST Registration</li>
+<li>Inconsistency in return compliance</li>
+<li>Non-Payment of tax liabilities.</li>
+</ul>
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -236,7 +255,7 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Cases" role="tabpanel" aria-labelledby="list-Cases-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Cases" role="tabpanel" aria-labelledby="list-Cases-list">No data Available.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -258,7 +277,7 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Others" role="tabpanel" aria-labelledby="list-Others-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Others" role="tabpanel" aria-labelledby="list-Others-list">No data Available.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>

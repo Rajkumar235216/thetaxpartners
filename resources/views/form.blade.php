@@ -1,4 +1,13 @@
 <section class="section-property section-t8 ">
+  @if (Session:: has('status_contact'))
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                      {{Session::get('status_contact')}}
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+            </div>
+              
+            @endif
     <div class="container ">
       <div class="row ">
         <div class="col-md-12 ">
@@ -15,9 +24,7 @@
 
         </div>
       </div>
-     @if (Session:: has('flash_message'))
-    <div class="alert alert-success">{{Session::get('flash_message')}}</div>
-    @endif
+     
   <form method="post" class="form-a contactForm"  action="{{route('enquiry.store') }}" id="form2" name="form2" role="form">
                     {{ csrf_field() }}
 

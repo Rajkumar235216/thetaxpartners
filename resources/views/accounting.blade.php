@@ -1,11 +1,11 @@
 @include('header');
   <!--/ Nav End /-->
 
-    <!--/ Carousel Star /-->
+    <!--/ Carousel Star 
     <div class="carousel-item active">
       <img class="d-block w-100" src="img/accounting-services-slide.jpeg" alt="Accounting Services">
     </div>
-  <!--/ Carousel end /-->
+   Carousel end /-->
 
 
 
@@ -56,7 +56,13 @@
   <div class="col-md-8  col-sm-12" id ="services">
     <div class="tab-content" id="nav-tabContent">
       <h6 class="text-center" id ="service_description">Description</h6>
-      <div class="tab-pane fade show active" id="list-Book" role="tabpanel" aria-labelledby="list-Book-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, cupiditate. Iure, numquam. Laboriosam magni corporis provident temporibus totam animi dicta. Aut dolore deserunt at adipisci, distinctio totam placeat quis minima?.
+      <div class="tab-pane fade show active" id="list-Book" role="tabpanel" aria-labelledby="list-Book-list">Bookkeeping is a systematic record of financial transactions in the appropriate books of
+            records. What it means is, whether you make a sale or purchase something, a record will be maintained of the
+            transaction. This record will allow you to easily keep a track of all your transactions and will help you
+            analyse how you can cut costs and reduce taxes. Bookkeeping is a function of the accounts department of a
+            business. However, many small businesses do not have fully staffed and efficient accounting departments and
+            require the help of external bookkeeping services. TheTaxPartners can help your business maintain its books
+            through its network of CA/CSs and tax experts.
        
       <!--  embedded collapsible buttons start-->
         <br><br>
@@ -81,7 +87,7 @@
       
 
 
-      <div class="tab-pane fade" id="list-Financial" role="tabpanel" aria-labelledby="list-Financial-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima suscipit sunt ex, non laboriosam ipsa eligendi porro aliquid dolorum reiciendis explicabo. Blanditiis reprehenderit amet, sit quasi asperiores iusto a temporibus!
+      <div class="tab-pane fade" id="list-Financial" role="tabpanel" aria-labelledby="list-Financial-list">Financial statements are written records that convey the business activities and the financial performance of a company. Financial statements are often audited by government agencies, accountants, firms, etc. to ensure accuracy and for tax, financing, or investing purposes.
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -103,7 +109,7 @@
       <!--  embedded collapsible buttons stop -->
       </div>
 
-      <div class="tab-pane fade" id="list-Inventories" role="tabpanel" aria-labelledby="list-Inventories-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed dolores quidem adipisci doloremque culpa illo eligendi perferendis, iure nam unde harum at quisquam exercitationem nemo quaerat dicta, eaque veritatis odio.
+      <div class="tab-pane fade" id="list-Inventories" role="tabpanel" aria-labelledby="list-Inventories-list">The days sales of inventory (DSI) is a financial ratio that indicates the average time in days that a company takes to turn its inventory, including goods that are a work in progress, into sales.
        <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -125,7 +131,7 @@
 
       <!--  embedded collapsible buttons stop -->
       </div>
-      <div class="tab-pane fade" id="list-Projected" role="tabpanel" aria-labelledby="list-Projected-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+      <div class="tab-pane fade" id="list-Projected" role="tabpanel" aria-labelledby="list-Projected-list">Projected financial statements take into account past financial trends, market conditions, possible changes and management expectations to arrive at a future financial picture. 
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -148,7 +154,8 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Provisional" role="tabpanel" aria-labelledby="list-Provisional-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Provisional" role="tabpanel" aria-labelledby="list-Provisional-list">Financial statements provide companies and their owners, lenders and investors with a variety of accounting and financial information that provides insight into how a company is performing.
+Provisional means that something is conditional or interim or subject to change or alteration. Provisional also means that something serves a purpose for the time being. Therefore, the provisional financial statement are one that is subject to change. A balance sheet may be provisional because a company is awaiting a final appraisal on property or equipment it owns. a balance sheet may be provisional due to pending adjustments to the net income statement that will impact retained earnings.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -170,7 +177,7 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Assets" role="tabpanel" aria-labelledby="list-Assets-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Assets" role="tabpanel" aria-labelledby="list-Assets-list">Deferred Tax Liability (DTL) or Deferred Tax Asset (DTA) item forms an important part of your Financial Statements. This adjustment made at year-end closing of Books of Accounts affects the Income-tax outgo of your Business&nbsp;for that year&nbsp;as well as the years ahead.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -192,12 +199,12 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Others" role="tabpanel" aria-labelledby="list-Others-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Others" role="tabpanel" aria-labelledby="list-Others-list">No Data Available.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
             <a class="btn btn-primary"  href="/accounting/others" role="button" >
-            Link with href
+            Read More
         </a>&nbsp;
          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
           Apply Now

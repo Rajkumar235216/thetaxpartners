@@ -53,7 +53,7 @@
             transaction. This record will allow you to easily keep a track of all your transactions and will help you
             analyse how you can cut costs and reduce taxes. Bookkeeping is a function of the accounts department of a
             business. However, many small businesses do not have fully staffed and efficient accounting departments and
-            require the help of external bookkeeping services. LegalRaasta can help your business maintain its books
+            require the help of external bookkeeping services. TheTaxPartners can help your business maintain its books
             through its network of CA/CSs and tax experts.</p>
 
 

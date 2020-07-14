@@ -1,6 +1,7 @@
 @include('header'); 
  <!--/ Nav End /-->
 
+
   <!--/ Intro Single star /-->
   <section class="intro-single">
     <div class="container">
@@ -39,12 +40,18 @@
         <div class="col-sm-12 section-t8">
           <div class="row">
             <div class="col-md-7">
-            @if (Session:: has('flash_message'))
-              <div class="alert alert-success">{{Session::get('flash_message')}}</div>
+            @if (Session:: has('status_contact'))
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                      {{Session::get('status_contact')}}
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+            </div>
+              
             @endif
-              <form method="post" class="form-a contactForm" action="{{route('contact.store') }}" id="form1" name="form1" role="form">
+              <form method="post" class="form-a contactForm" action="/contact" id="form1" name="form1" role="form">
                 {{ csrf_field() }}
-                <div id="sendmessage">Your message has been sent. Thank you!</div>
+                
                 <div id="errormessage"></div>
                 
 

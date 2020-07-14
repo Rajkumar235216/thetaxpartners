@@ -328,3 +328,10 @@ Route::post('/emails/contact-message', [
 ]
     
 );
+/* Route::get('/formdata',[
+    'uses' => 'ContactMessageController@store',
+    'as'  =>  'contact.store'
+] 
+    
+);
+*/

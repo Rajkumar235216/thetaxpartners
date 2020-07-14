@@ -46,7 +46,7 @@
   <!--/  content start /-->
     <div class="container section-t8 left-color">
       <strong><b>What is the need of Correction?</b></strong></p>
-<p style="text-align: justify;"><strong><em><b><i>The following are the some of the reasons behind for </i></b></em><a href="https://taxguru.in/income-tax/file-tds-correction-statements-traces-fy-prior-fy-201112.html" target="_blank" rel="noopener noreferrer"><em><i>TDS corrections.</i></em></a></strong></p>
+<p style="text-align: justify;"><strong>The following are the some of the reasons behind for TDS corrections.</strong></p>
 <p style="padding-left: 40px; text-align: justify;">&gt; Wrong PAN Number for Employee or Dedcutee update in TDS Statement</p>
 <p style="padding-left: 40px; text-align: justify;">&gt; Short Deduction or Excess deduction of TDS amount</p>
 <p style="padding-left: 40px; text-align: justify;">&gt; Excess or Short utilization of Challan amount</p>

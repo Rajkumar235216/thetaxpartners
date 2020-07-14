@@ -47,7 +47,7 @@
     <div class="container section-t8 left-color">
      <h4>What is revocation of cancellation of registration?</h4>
         <p>Revocation means the official cancellation of a decision or promise.
-            >Revocation of cancellation of registration means that the decision to
+            Revocation of cancellation of registration means that the decision to
                 cancel the registration has been reversed and the registration is still valid.</p>
         <h4>When is revocation of cancellation applicable?</h4>
         <p>This is applicable only when the tax officer has cancelled the

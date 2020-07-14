@@ -1,11 +1,11 @@
 @include('header');
   <!--/ Nav End /-->
 
-    <!--/ Carousel Star /-->
+    <!--/ Carousel Star 
     <div class="carousel-item active">
       <img class="d-block w-100" src="img/import-export-slide2.jpg" alt="Import-Export Services">
     </div>
-  <!--/ Carousel end /-->
+  / Carousel end /-->
 
 
 
@@ -55,7 +55,13 @@
   <div class="col-md-8  col-sm-12" id ="services">
     <div class="tab-content" id="nav-tabContent">
       <h6 class="text-center" id ="service_description">Description</h6>
-      <div class="tab-pane fade show active" id="list-IEC" role="tabpanel" aria-labelledby="list-IEC-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, cupiditate. Iure, numquam. Laboriosam magni corporis provident temporibus totam animi dicta. Aut dolore deserunt at adipisci, distinctio totam placeat quis minima?.
+      <div class="tab-pane fade show active" id="list-IEC" role="tabpanel" aria-labelledby="list-IEC-list">The
+                    first requirement before you start an import/ export business in India is to obtain an IEC. An IEC
+                    is necessary for the import/export of goods. In case the import/export is of services or technology,
+                    IEC is required in only limited circumstances, when import/export is in 'specified services' or
+                    'specified technologies', i.e. services or technologies in which international trade is restricted
+                    by the Government of India as they pertain to national security, such as dealing in nuclear weapons,
+                    automatic guns, etc.
        
       <!--  embedded collapsible buttons start-->
         <br><br>
@@ -80,7 +86,7 @@
       
 
 
-      <div class="tab-pane fade" id="list-Shipping" role="tabpanel" aria-labelledby="list-Shipping-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima suscipit sunt ex, non laboriosam ipsa eligendi porro aliquid dolorum reiciendis explicabo. Blanditiis reprehenderit amet, sit quasi asperiores iusto a temporibus!
+      <div class="tab-pane fade" id="list-Shipping" role="tabpanel" aria-labelledby="list-Shipping-list"><p>If we search the meaning of the term “bill”, it is defined as a printed or written statement of the cost for the goods or services delivered or to be delivered. The term “ lade” means to put the cargo onto a ship or other form of goods carrier.</p><p>Thus, a bill of lading in shipping is a record of the traded goods which have been received on board. It is a document that establishes an agreement between a shipper and a transportation company for the transportation of goods. Transportation Company (carrier) issues these records to the shipper.</p>
       <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -102,7 +108,9 @@
       <!--  embedded collapsible buttons stop -->
       </div>
 
-      <div class="tab-pane fade" id="list-FIRC" role="tabpanel" aria-labelledby="list-FIRC-list">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed dolores quidem adipisci doloremque culpa illo eligendi perferendis, iure nam unde harum at quisquam exercitationem nemo quaerat dicta, eaque veritatis odio.
+      <div class="tab-pane fade" id="list-FIRC" role="tabpanel" aria-labelledby="list-FIRC-list">FIRC (Foreign Inward Remittance Certificate) is a document that is issued by a bank to their customers
+            against all the inward remittances entering India. It can be an advance payment against export proceeds,
+            ocean or airfreight, or remuneration or wages under consultancy charges or for any other reasons.
        <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -124,7 +132,7 @@
       <!--  embedded collapsible buttons stop -->
       </div>
 
-      <div class="tab-pane fade" id="list-Export" role="tabpanel" aria-labelledby="list-Export-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+      <div class="tab-pane fade" id="list-Export" role="tabpanel" aria-labelledby="list-Export-list">Presently value of the goods or software exports made by the exporters is required to be realized fully and repatriated to the country within a period of 9 months from the date of exports.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -146,7 +154,7 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Notice" role="tabpanel" aria-labelledby="list-Notice-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Notice" role="tabpanel" aria-labelledby="list-Notice-list">No Data Available.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -168,7 +176,7 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Consultancy" role="tabpanel" aria-labelledby="list-Consultancy-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Consultancy" role="tabpanel" aria-labelledby="list-Consultancy-list">No Data Available.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>
@@ -190,7 +198,7 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Disinvestment" role="tabpanel" aria-labelledby="list-Disinvestment-list"><p><strong>Disinvestment in India :</strong> Disinvestment means sale or liquidation of assets by the
+        <div class="tab-pane fade" id="list-Disinvestment" role="tabpanel" aria-labelledby="list-Disinvestment-list"><p> Disinvestment means sale or liquidation of assets by the
             government, usually Central and state public sector enterprises, projects, or other fixed assets. The
             government undertakes disinvestment to reduce the fiscal burden on the exchequer, or to raise money for
             meeting specific needs, such as to bridge the revenue shortfall from other regular sources. In some cases,
@@ -219,7 +227,7 @@
     <!--  embedded collapsible buttons stop -->
   </div>
 
-        <div class="tab-pane fade" id="list-Others" role="tabpanel" aria-labelledby="list-Others-list">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde deserunt blanditiis fuga ullam rem doloribus a iure fugiat ipsum officia, totam asperiores veniam qui quia in quos amet, iusto cum!
+        <div class="tab-pane fade" id="list-Others" role="tabpanel" aria-labelledby="list-Others-list">No Data Available.
     <!--  embedded collapsible buttons start-->
         <br><br>
         <p>

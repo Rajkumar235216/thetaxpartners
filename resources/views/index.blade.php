@@ -2,7 +2,7 @@
 @include('header');
 
 
-  <!--/ Carousel Start /-->
+  <!--/ Carousel Start /
   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -35,21 +35,21 @@
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-   <!-- <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
+   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <!--<span class="carousel-control-next-icon" aria-hidden="true"></span>-->
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
 
 
-  <!--/ Carousel end /-->
+  / Carousel end /-->
   
   
   <!--/ Services Start /-->
-  <section class="section-services section-t8 left-color bottom-color">
+ 
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -184,7 +184,16 @@
   </section >
   <!--/ Services End /-->
 
-
+ <section class="section-services section-t8 left-color bottom-color">
+  @if (Session:: has('status_enquire'))
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                      {{Session::get('status_enquire')}}
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+            </div>
+              
+            @endif
   <!--/ Equiry form start  /-->
 
   @include('form')

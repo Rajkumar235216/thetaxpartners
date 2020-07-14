@@ -49,8 +49,7 @@
         <h1 style="text-align: center;">Justification Report – TDS Filing</h1>
         <p>Justification report is submitted while processing the statement filed by the deductor during a particular
             quarter of the financial year. Justification report consists of various defaults or errors identified by the
-            Income Tax Department when a <a href="https://www.indiafilings.com/learn/tds-correction-statement/">TDS</a>
-            deductor files the statement. The detailed information regarding the statement is presented in the report.
+            Income Tax Department when a TDS deductor files the statement. The detailed information regarding the statement is presented in the report.
             The following details regarding the statement are furnished in the justification report:</p>
         <ul>
             <li>Defaults and errors that need to be rectified</li>
